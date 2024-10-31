@@ -1,17 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
-      "prompt": "What special prop should always be included for lists of elements?",
-      "answers": [
-        "id",
-        "name",
-        "key",
-        "prop"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 2,
       "prompt": "A React component is a function that returns ______.",
       "answers": [
@@ -65,6 +54,61 @@
         "controlled"
       ],
       "correctIndex": 1
+    },
+    {
+      "prompt": "What is my favorite food?",
+      "answers": [
+        "Adobo",
+        "Sinigang",
+        "Nilaga",
+        "Tinola"
+      ],
+      "correctIndex": "3",
+      "id": 8
+    },
+    {
+      "prompt": "What is my favorite food?",
+      "answers": [
+        "Adobo",
+        "Sinigang",
+        "Nilaga",
+        "Tinola"
+      ],
+      "correctIndex": "3",
+      "id": 9
+    },
+    {
+      "prompt": "What is my favorite food?",
+      "answers": [
+        "Adobo",
+        "Sinigang",
+        "Nilaga",
+        "Tinola"
+      ],
+      "correctIndex": "3",
+      "id": 10
+    },
+    {
+      "prompt": "What is my favorite food?",
+      "answers": [
+        "Adobo",
+        "Sinigang",
+        "Nilaga",
+        "Tinola"
+      ],
+      "correctIndex": 1,
+      "id": 12
+    },
+    {
+      "prompt": "What is my favorite food?",
+      "answers": [
+        "Adobo",
+        "Sinigang",
+        "Nilaga",
+        "Tinola"
+      ],
+      "correctIndex": "1",
+      "id": 13
     }
   ]
 }
